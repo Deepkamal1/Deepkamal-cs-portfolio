@@ -1,2 +1,19 @@
-# Deepkamal-cs-portfolio
-“My computer science portfolio including CV and technical projects.”
+📁 Deepkamal-cs-portfolio/
+├── index.html
+|
+├── README.md
+|
+├── 📁 cv/
+|
+│   └── deepkamal_cv.pdf
+|
+├── 📁 projects/
+|
+│   ├── project1/
+|
+│   │   └── README.md
+|
+│   └── project2/
+|
+│       └── README.md
+
